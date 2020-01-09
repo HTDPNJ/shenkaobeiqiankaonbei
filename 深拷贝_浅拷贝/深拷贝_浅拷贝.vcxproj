@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="深拷贝_浅拷贝.cpp" />
+    <ClCompile Include="dm01_深拷贝浅拷贝.cpp" />
+    <ClCompile Include="dm02_深拷贝.cpp" />
+    <ClCompile Include="dm03_构造函数的初始化列表.cpp" />
+    <ClCompile Include="dm04_newdelete.cpp" />
+    <ClCompile Include="dm05_全局函数成员函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
